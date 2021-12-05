@@ -1,0 +1,47 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: teal;
+}
+
+.code {
+    font-family: Consolas, 'Courier New', Courier, monospace;
+}
+
+.content-table {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    min-width: 400px;
+    border-radius: 10px 10px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.content-table thead th {
+    background-color: teal;
+    color: whitesmoke;
+    text-align: left;
+    font-weight: bold;
+}
+
+.content-table th, .content-table td {
+    padding: 12px 15px;
+}
+
+.content-table tbody tr {
+    border-bottom: 1px solid lightgray;
+}
+/* targets every other row in the table */
+.content-table tbody tr:nth-last-of-type(even) {
+    background-color: whitesmoke;
+}
+
+.content-table tbody tr:last-of-type {
+    border-bottom: 2px solid teal ;
+}
+
+tr:hover {
+    background-color: rgba(0, 128, 128, 0.2) !important;
+
+}
