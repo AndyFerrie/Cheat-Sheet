@@ -38,7 +38,7 @@ In this project, you’ll be building your own reference cheat sheet to help you
 
 ### What I learned
 
-This is my first time creating a table. I learned how to add a drop shadow using box-shadow and how to target every other row using tr:nth-last-of-type(even). I also learned how to use "&lt;" "&gt;" when writing tags as text. 
+This is my first time creating a table. I learned how to add a drop shadow using box-shadow and how to target every other row using tr:nth-last-of-type(even). I also learned how to use &lt &gt when writing tags as text. 
 
 ### Continued development
 
