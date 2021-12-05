@@ -12,7 +12,6 @@ This is my solution to the Build Your Own Cheat Sheet challenge in CodeCademy's 
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
