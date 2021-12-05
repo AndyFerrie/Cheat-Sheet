@@ -31,14 +31,15 @@ In this project, you’ll be building your own reference cheat sheet to help you
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]()
+- Live Site URL: [Add live site URL here]()
 
 ## My process
 
 ### What I learned
 
-This is my first time creating a table. I learned how to add a drop shadow and how to target every other row using tr:nth-last-of-type(even).
+This is my first time creating a table. I learned how to add a drop shadow and how to target every other row using tr:nth-last-of-type(even). I also learned how to use   
+&lt; &gt; when writing tags as text. 
 
 ### Continued development
 
@@ -52,7 +53,7 @@ I need to learn more about overflow: hidden; and also specificity as I had to ad
 
 ## Author
 
-- Website - [Andy Ferrie](https://www.your-site.com)
+- Website - [Andy Ferrie - Link to be added]()
 
 ## Acknowledgments
 
