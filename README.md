@@ -31,7 +31,7 @@ In this project, you’ll be building your own reference cheat sheet to help you
 
 ### Links
 
-- Live Site URL: [https://andyferrie.github.io/Cheat-Sheet/]()
+- Live Site URL: [Cheat Sheet](https://andyferrie.github.io/Cheat-Sheet/)
 
 ## My process
 
