@@ -1,4 +1,4 @@
-# CodeCademy Challenge Project: Build Your Own Cheat Sheet
+# CodeCademy Project: Build Your Own Cheat Sheet
 
 This is my solution to the Build Your Own Cheat Sheet challenge in CodeCademy's Web Development Fundamentals Course
 
