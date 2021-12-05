@@ -31,8 +31,7 @@ In this project, you’ll be building your own reference cheat sheet to help you
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [https://andyferrie.github.io/Cheat-Sheet/]()
 
 ## My process
 
@@ -49,10 +48,6 @@ I need to learn more about overflow: hidden; and also specificity as I had to ad
 - [HTML Cheatsheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf) - I used this Cheatsheet as a reference. 
 - [Creating Beautiful HTML Tables with CSS](https://dev.to/dcodeyt/creating-beautiful-html-tables-with-css-428l) - I used this tutorial to learn how to style a table with CSS.
 - [Highlight Table Row](https://www.textfixer.com/tutorials/highlight-table-row.php) - I used this page to learn how to highlight a row on hover.
-
-## Author
-
-- Website - [Andy Ferrie - Link to be added]()
 
 ## Acknowledgments
 
